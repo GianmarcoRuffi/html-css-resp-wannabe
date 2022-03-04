@@ -29,4 +29,19 @@
     align-items: center;
     width: 100%;
   }
+
+  #steps.container .row > *,
+  #lezioni.container .row > * {
+    width: 100%;
+  }
+
+  img {
+    height: 100px;
+  }
+
+  #why .row img {
+    background-color: #428bca;
+    border-radius: 50%;
+    padding: 15px;
+  }
 }
